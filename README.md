@@ -14,7 +14,7 @@ I'm Justin, a passionate developer with a focus on building web applications and
 ## 🔭 Current Projects  
 - **[Wealth Tracker](https://wealthtracker-rze7.onrender.com/):**  
   A personal finance tracking web app built with Flask that lets users track income, expenses, and budgets, complete with data visualization.  
-  [GitHub Repository](https://github.com/YourUsername/Wealth-Tracker)  
+  [GitHub Repository](https://github.com/justinhlee01/Wealth-Tracker)  
 
 
 ## 🛠️ Skills  
