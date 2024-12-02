@@ -4,7 +4,7 @@ I'm Justin, a passionate developer with a focus on building web applications and
 
 ## 🎓 Education  
 - Currently studying Computer Science at University of North Carolina at Charlotte. 
-- Focus areas include:  
+- Interest of areas include:  
   - Web Development  
   - Software Development  
   - Financial Technology (FinTech)  
