@@ -22,10 +22,6 @@ I'm Justin, a passionate developer with a focus on building web applications and
 - **Frameworks:** Flask  
 - **Tools:** GitHub, VS Code
 
-  
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
 
 ## 🌱 Goals  
 - Master full-stack web development  
