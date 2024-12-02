@@ -29,7 +29,7 @@ I'm Justin, a passionate developer with a focus on building web applications and
 - Contribute to meaningful tech solutions  
 
 ## 📫 Contact Me  
-- [LinkedIn](www.linkedin.com/in/justinhlee01)  
+- [LinkedIn](https://www.linkedin.com/in/justinhlee01)
 - [Email](mailto:justinhlee01@gmail.com)  
 
 
